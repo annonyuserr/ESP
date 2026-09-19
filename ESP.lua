@@ -640,7 +640,7 @@ local FontsToDownload = {
     ["ProggyTiny"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/ProggyTiny.ttf" },
     ["Templehook"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/Templehook.ttf" },
     ["PixelSans"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/fs-pixel-sans-unicode-regular.regular.ttf" },
-    ["Micro"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/micro.ttf" },
+    ["Micro"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/Pixel.ttf" },
     ["Minecraftia"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/minecraftia.ttf" },
     ["Nokia"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/nokia.ttf" },
     ["SmallestPixel7"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/smallest_pixel-7.ttf" },
