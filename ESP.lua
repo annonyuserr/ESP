@@ -645,6 +645,8 @@ local FontsToDownload = {
     ["Nokia"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/nokia.ttf" },
     ["SmallestPixel7"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/smallest_pixel-7.ttf" },
     ["Monaco"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/monaco.ttf" },
+    ["Alwaysclassy"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/Always%20Classy.ttf" },
+
 
 }
 
