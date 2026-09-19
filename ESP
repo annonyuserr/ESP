@@ -636,11 +636,16 @@ local _fontMap = {
 }
 
 local FontsToDownload = {
-    ["Tahoma"] = { TTF = "https://github.com/LuckyHub1/LuckyHub/raw/main/zekton_rg.ttf" },
-    ["Minecraftia"] = { TTF = "https://github.com/LuckyHub1/LuckyHub/raw/refs/heads/main/Minecraftia.ttf" },
-    ["Smallest Pixel-7"] = { TTF = "https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/smallest_pixel-7.ttf" },
-    ["Proggy Clean"] = { TTF = "https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/ProggyClean.ttf" },
-    ["Tahoma Modern Bold"] = { TTF = "https://github.com/i77lhm/storage/raw/refs/heads/main/fonts/Tahoma-Modern-Bold.ttf" },
+    ["Tahoma"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/fs-tahoma-8px.ttf" },
+    ["ProggyTiny"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/ProggyTiny.ttf" },
+    ["Templehook"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/Templehook.ttf" },
+    ["PixelSans"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/fs-pixel-sans-unicode-regular.regular.ttf" },
+    ["Micro"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/micro.ttf" },
+    ["Minecraftia"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/minecraftia.ttf" },
+    ["Nokia"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/nokia.ttf" },
+    ["SmallestPixel7"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/smallest_pixel-7.ttf" },
+    ["Monaco"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/monaco.ttf" },
+
 }
 
 local ESPFonts = { Loaded = {} }
