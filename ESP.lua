@@ -636,15 +636,15 @@ local _fontMap = {
 }
 
 local FontsToDownload = {
-    ["Tahoma"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/fs-tahoma-8px.ttf" },
-    ["ProggyTiny"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/ProggyTiny.ttf" },
-    ["Templehook"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/Templehook.ttf" },
-    ["PixelSans"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/fs-pixel-sans-unicode-regular.regular.ttf" },
-    ["Micro"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/micro.ttf" },
-    ["Minecraftia"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/minecraftia.ttf" },
-    ["Nokia"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/nokia.ttf" },
-    ["SmallestPixel7"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/smallest_pixel-7.ttf" },
-    ["Monaco"] = { TTF = "https://github.com/annonyuserr/Fonts/blob/main/monaco.ttf" },
+    ["Tahoma"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/fs-tahoma-8px.ttf" },
+    ["ProggyTiny"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/ProggyTiny.ttf" },
+    ["Templehook"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/Templehook.ttf" },
+    ["PixelSans"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/fs-pixel-sans-unicode-regular.regular.ttf" },
+    ["Micro"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/micro.ttf" },
+    ["Minecraftia"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/minecraftia.ttf" },
+    ["Nokia"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/nokia.ttf" },
+    ["SmallestPixel7"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/smallest_pixel-7.ttf" },
+    ["Monaco"] = { TTF = "https://github.com/annonyuserr/Fonts/raw/main/monaco.ttf" },
 
 }
 
